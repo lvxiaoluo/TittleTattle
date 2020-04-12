@@ -1,7 +1,7 @@
 # TittleTattle
 读书笔记、技术杂谈等
 
-立一个flag!!!
+*立一个flag!!!*
 
 接下来半年读书清单如下：
 
@@ -20,3 +20,4 @@
 - [ ] **《Redis实战》**
 - [ ] **《深入理解Kafka核心设计与实践原理》**
 
+<img src="media/pictures/person/books.jpg" alt="书单列表" width="500" height="313" align="bottom" />
