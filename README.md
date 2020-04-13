@@ -21,5 +21,3 @@
 - [ ] **《深入理解Kafka核心设计与实践原理》**
 
 <img src="media/pictures/person/books.jpg" alt="书单列表" width="500" height="313" align="bottom" />
-
-this is
