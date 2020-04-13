@@ -20,4 +20,8 @@
 - [ ] **《Redis实战》**
 - [ ] **《深入理解Kafka核心设计与实践原理》**
 
+<<<<<<< HEAD
 <img src="media/pictures/person/books.jpg" alt="书单列表" width="500" height="313" align="bottom" />
+=======
+<img src="media/pictures/person/books.jpg" alt="书单列表" width="500" height="313" align="bottom" />
+>>>>>>> 0020252... 撤回
